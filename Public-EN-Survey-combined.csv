@@ -1,0 +1,42 @@
+Question;Statement;Inverted?;lfdn;Experiment 1;;;;;;;;;;;;Experiment 2;;;;;;;;;
+;;;;28;29;30;31;32;33;35;36;37;38;39;40;3;4;6;7;8;9;11;12;13;14
+How did you feel about the first encounter with the decide application?;I find the system easy to use.;FALSE;v_50;4;4;4;5;2;5;5;5;5;5;3;3;3;3;5;5;5;5;5;4;4;4
+How did you feel about the first encounter with the decide application?;I find the system intuitive.;FALSE;v_51;3;4;4;4;2;4;5;5;4;4;3;3;2;3;4;4;5;5;4;5;5;4
+How did you feel about the first encounter with the decide application?;I found my way around the system well.;FALSE;v_53;4;4;3;4;1;5;5;5;4;5;2;5;4;3;5;5;5;5;4;5;5;2
+How did you feel about the first encounter with the decide application?;I quickly realised what my options for action were.;FALSE;v_54;4;5;5;5;3;4;5;5;3;5;4;4;5;3;3;5;3;5;3;5;5;5
+How did you feel about the first encounter with the decide application?;I found it easy to find content that was interesting for me.;FALSE;v_55;4;3;3;5;4;4;5;5;5;4;3;4;5;2;2;5;5;5;3;4;4;4
+How did you feel about the first encounter with the decide application?; was able to express my views and feelings in an appropriate way.;FALSE;v_60;4;4;5;5;3;4;5;4;4;4;4;5;4;4;4;5;5;5;4;4;5;5
+How did you feel about the first encounter with the decide application?;The interaction with the other participants went smoothly. ;FALSE;v_108;4;4;4;5;4;4;5;5;4;4;2;5;4;4;5;5;5;5;5;5;5;4
+How do you feel about the outcome of the process?;I am satisfied with the outcome of the decision.;FALSE;v_29;3;3;3;4;3;5;3;5;4;5;3;4;5;4;5;5;5;5;4;5;5;4
+How do you feel about the outcome of the process?;I think my opinion contributed to the final decision.;FALSE;v_30;3;2;5;4;4;3;4;4;3;3;3;4;5;5;4;5;4;5;5;5;5;3
+How do you feel about the outcome of the process?;I find my opinion reflected in the decision.;FALSE;v_31;4;3;4;5;2;4;3;5;3;5;2;4;5;5;5;5;4;5;4;5;5;4
+How do you feel about the outcome of the process?;I think my voice was heard.;FALSE;v_32;3;3;4;5;3;4;5;5;4;4;3;5;5;5;5;5;5;5;4;5;5;4
+How do you feel about the outcome of the process?;I felt the process was fair.;FALSE;v_57;3;3;4;5;4;5;5;5;3;5;1;5;4;5;5;5;5;5;4;5;5;5
+How do you feel about the outcome of the process?;I think I was correctly informed about the process.;FALSE;v_59;3;5;4;5;4;5;5;5;5;5;4;4;5;2;5;5;5;5;5;5;5;5
+How do you feel about the outcome of the process?;I think the decision is a joint product of all participants.;FALSE;v_61;3;4;4;4;2;4;4;5;5;5;1;4;4;5;5;5;5;5;5;5;5;4
+How would you rate the process in general?;I feel the effort required to reach a decision is too high.;TRUE;v_17;3;5;3;5;3;3;4;5;5;5;3;5;4;5;5;3;2;5;4;5;5;4
+How would you rate the process in general?;I can imagine doing such a process again in the future.;FALSE;v_18;4;4;4;5;4;4;5;3;5;4;5;5;5;5;4;3;2;4;4;5;5;5
+How would you rate the process in general?;I would have preferred to discuss more with the other participants.;TRUE;v_19;4;2;2;4;4;2;5;2;3;3;2;3;3;4;3;2;3;3;3;4;4;1
+How would you rate the process in general?;I would have liked more support from the system.;TRUE;v_20;2;3;3;5;2;3;5;5;4;5;3;2;3;3;3;3;4;4;5;5;4;4
+How would you rate the process in general?;The exchange with other participants was helpful.;FALSE;v_27;4;3;2;4;3;5;4;5;4;4;3;4;4;5;4;4;4;5;5;4;4;4
+How would you rate the process in general?;For me, the process was understandable.;FALSE;v_56;3;5;4;5;3;5;5;5;5;5;4;5;5;3;4;5;5;5;5;5;5;4
+Have you participated in any argumentation on a proposal?;;FALSE;v_94;1;1;1;1;1;1;1;1;1;2;1;1;1;1;1;1;1;1;1;1;1;1
+How do you feel about the following statements on argumentation?;I find the possibility to add nested arguments useful.;FALSE;v_95;4;3;5;4;1;4;4;5;4;4;3;5;4;5;4;2;5;4;3;5;5;5
+How do you feel about the following statements on argumentation?;Marking an argument with Pro/Contra/Neutral helped me to understand the arguments better.;FALSE;v_101;3;4;4;5;4;5;5;5;3;5;3;5;5;4;5;3;5;5;5;4;4;5
+How do you feel about the following statements on argumentation?;Arguments were a real added value for decision making.;FALSE;v_102;5;2;2;4;3;4;5;5;4;5;2;4;5;3;5;2;5;5;4;4;4;4
+How do you feel about the following statements on argumentation?;I understood the proposals better through the arguments.;FALSE;v_103;4;3;4;3;2;4;5;4;4;4;1;5;4;4;4;2;5;4;4;4;4;5
+How do you feel about the following statements on argumentation?;I found the argument interface easy to use.;FALSE;v_104;4;5;5;5;2;5;5;5;4;4;3;5;3;4;5;5;5;5;5;5;5;4
+How do you feel about the following statements on argumentation?;Nested arguments were too complicated for me.;TRUE;v_105;3;5;2;5;1;4;5;5;3;5;4;3;5;5;4;3;5;5;5;4;5;5
+How do you feel about the following statements on argumentation?;I would have liked to communicate more with the other participants.;TRUE;v_106;4;1;2;5;3;2;5;5;4;3;2;3;3;3;3;3;3;3;3;5;3;3
+Do you think you have understood the purpose of a proposal with a single predecessor? (A derivative/improvement);;FALSE;v_25;3;3;4;3;2;4;3;3;3;3;3;4;3;3;3;4;3;4;3;3;3;4
+How do you feel about the feature that proposals can depend on another proposal?;It is helpful in generating better proposals.;FALSE;v_67;3;4;4;4;4;5;5;5;5;4;5;4;4;5;4;4;5;5;4;4;4;5
+How do you feel about the feature that proposals can depend on another proposal?;It is unnecessarily complicated.;TRUE;v_74;2;4;4;5;4;4;5;5;5;4;5;4;1;3;4;5;3;5;4;4;4;5
+How do you feel about the feature that proposals can depend on another proposal?;I think with large groups of participants the feature is more useful.;FALSE;v_75;3;4;3;4;4;3;3;5;2;3;3;5;1;5;2;5;5;4;4;3;3;4
+How do you feel about the feature that proposals can depend on another proposal?;I think small groups of participants benefit from it.;FALSE;v_76;2;2;3;4;2;3;3;2;4;2;3;2;5;1;5;4;2;4;3;4;4;3
+How do you feel about the feature that proposals can depend on another proposal?;It helped me to map my opinion appropriately;FALSE;v_77;2;3;2;5;4;4;4;5;4;4;3;4;4;3;3;4;4;5;5;4;4;4
+Do you think you understand the purpose of a proposal with multiple predecessors? (A merge / coalition);;FALSE;v_91;3;3;4;4;3;4;4;3;2;3;3;3;3;3;4;3;3;3;3;4;4;4
+How do you feel about the feature that proposals can depend on several other proposals?;It is helpful in generating better proposals.;FALSE;v_86;;;4;4;;5;5;5;4;5;2;;4;5;5;4;5;4;4;5;5;5
+How do you feel about the feature that proposals can depend on several other proposals?;It is unnecessarily complicated.;TRUE;v_87;;;4;4;;5;5;5;4;5;3;;1;3;5;5;5;4;4;5;5;4
+How do you feel about the feature that proposals can depend on several other proposals?;I think with large participant groups the feature is more useful.;FALSE;v_88;;;2;4;;4;3;4;3;3;3;;1;5;3;4;5;3;4;3;3;3
+How do you feel about the feature that proposals can depend on several other proposals?;I think small groups of participants benefit from it.;FALSE;v_89;;;2;2;;2;3;2;4;4;2;;5;1;5;4;2;3;3;4;4;4
+How do you feel about the feature that proposals can depend on several other proposals?;It helped me to map my opinion appropriately;FALSE;v_90;;;3;4;;4;4;3;3;4;3;;4;3;5;2;4;5;5;3;4;4
